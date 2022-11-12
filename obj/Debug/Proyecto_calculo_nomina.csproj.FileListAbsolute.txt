@@ -1,0 +1,11 @@
+C:\Users\canal\OneDrive\Escritorio\Materias de la UC\Sistemas computacionales\Proyecto_calculo_nomina\Proyecto_calculo_nomina\bin\Debug\Proyecto_calculo_nomina.exe.config
+C:\Users\canal\OneDrive\Escritorio\Materias de la UC\Sistemas computacionales\Proyecto_calculo_nomina\Proyecto_calculo_nomina\bin\Debug\Proyecto_calculo_nomina.exe
+C:\Users\canal\OneDrive\Escritorio\Materias de la UC\Sistemas computacionales\Proyecto_calculo_nomina\Proyecto_calculo_nomina\bin\Debug\Proyecto_calculo_nomina.pdb
+C:\Users\canal\OneDrive\Escritorio\Materias de la UC\Sistemas computacionales\Proyecto_calculo_nomina\Proyecto_calculo_nomina\obj\Debug\Proyecto_calculo_nomina.csproj.AssemblyReference.cache
+C:\Users\canal\OneDrive\Escritorio\Materias de la UC\Sistemas computacionales\Proyecto_calculo_nomina\Proyecto_calculo_nomina\obj\Debug\Proyecto_calculo_nomina.csproj.SuggestedBindingRedirects.cache
+C:\Users\canal\OneDrive\Escritorio\Materias de la UC\Sistemas computacionales\Proyecto_calculo_nomina\Proyecto_calculo_nomina\obj\Debug\Proyecto_calculo_nomina.fmrprincipal.resources
+C:\Users\canal\OneDrive\Escritorio\Materias de la UC\Sistemas computacionales\Proyecto_calculo_nomina\Proyecto_calculo_nomina\obj\Debug\Proyecto_calculo_nomina.Properties.Resources.resources
+C:\Users\canal\OneDrive\Escritorio\Materias de la UC\Sistemas computacionales\Proyecto_calculo_nomina\Proyecto_calculo_nomina\obj\Debug\Proyecto_calculo_nomina.csproj.GenerateResource.cache
+C:\Users\canal\OneDrive\Escritorio\Materias de la UC\Sistemas computacionales\Proyecto_calculo_nomina\Proyecto_calculo_nomina\obj\Debug\Proyecto_calculo_nomina.csproj.CoreCompileInputs.cache
+C:\Users\canal\OneDrive\Escritorio\Materias de la UC\Sistemas computacionales\Proyecto_calculo_nomina\Proyecto_calculo_nomina\obj\Debug\Proyecto_calculo_nomina.exe
+C:\Users\canal\OneDrive\Escritorio\Materias de la UC\Sistemas computacionales\Proyecto_calculo_nomina\Proyecto_calculo_nomina\obj\Debug\Proyecto_calculo_nomina.pdb
